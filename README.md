@@ -4,6 +4,13 @@
 
 ---
 
+## Integrantes del Equipo (Collaborators)
+* **Jose Manuel Rivera Laura** ([@manuelrivera8245](https://github.com/manuelrivera8245))
+* **Angelo Jesus Saavedra Chave** ([@Gelo-cpu](https://github.com/Gelo-cpu))
+* **Jeremy Yober Reyes Garcilazo** ([@jerreyesga-debug](https://github.com/jerreyesga-debug))
+
+---
+
 ##  Descripción del Proyecto
 
 Este sistema fue desarrollado para modernizar el proceso de atención de la **Pollería Cisne Dorado**. Soluciona la necesidad de centralizar los pedidos vía web, permitiendo a los clientes realizar compras sin intermediarios, a los administradores controlar el flujo de caja y productos, y a los repartidores gestionar sus entregas desde una interfaz móvil.
