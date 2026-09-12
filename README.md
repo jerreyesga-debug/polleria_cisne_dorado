@@ -21,7 +21,7 @@ El proyecto sigue una arquitectura **MVC (Modelo-Vista-Controlador)** adaptada, 
 
 ##  Stack Tecnológico
 
-* **Backend:** PHP 8.0+ (Nativo, sin frameworks pesados).
+* **Backend:** PHP 8.0+ (Nativo, sin frameworks).
 * **Base de Datos:** MySQL / MariaDB.
 * **Frontend:** HTML5, CSS3 (Diseño Responsivo), JavaScript (ES6 Modules).
 * **Librerías:**
