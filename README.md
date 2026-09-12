@@ -62,7 +62,7 @@ El proyecto sigue una arquitectura **MVC (Modelo-Vista-Controlador)** adaptada, 
 1.  **Clonar el proyecto** en tu carpeta pública (`htdocs` o `www`):
     ```bash
     cd C:/xampp/htdocs
-    git clone [https://github.com/tu-usuario/polleria-web.git](https://github.com/tu-usuario/polleria-web.git)
+    git clone https://github.com/jerreyesga-debug/polleria_cisne_dorado.git
     ```
 
 2.  **Configurar Base de Datos**:
